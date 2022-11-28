@@ -7,3 +7,4 @@ In this project, titled ***Artificial Intelligence for identification of Indian 
 ## :zap: Market Segmentation Study Task
 In this study task, I, along with four other team members, worked on Market Segmentation (MS), highlighted the key points theoretically and practically (using Python) that are vital to MS. 
 
+## :zap: Electric Vehicle Market Segmentation
