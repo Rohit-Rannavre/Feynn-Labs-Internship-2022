@@ -1,4 +1,4 @@
-<img align="right" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFsR2odu1HlDw/company-logo_200_200/0/1618823231043?e=2147483647&v=beta&t=ilJeLegaw6JWKvSIyh1IhTTZZw1-nAtmfqqQJSeTuSs" width="250">
+<img align="right" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFsR2odu1HlDw/company-logo_200_200/0/1618823231043?e=2147483647&v=beta&t=ilJeLegaw6JWKvSIyh1IhTTZZw1-nAtmfqqQJSeTuSs" width="200">
 
 # :star: Feynn-Labs-Internship (2022)
 ![](https://img.shields.io/badge/Author-RohitRannavre-green?style=for-the-badge) ![](https://img.shields.io/badge/Programming%20Language-Python-yellow?style=for-the-badge) ![](https://img.shields.io/badge/Libraries%3A-Pandas%2C%20Numpy%2C%20Seaborn%2C%20Matplotlib%2C%20Scikit--learn-purple?style=for-the-badge)
