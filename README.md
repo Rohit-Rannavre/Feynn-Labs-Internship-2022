@@ -23,7 +23,7 @@ During this 2nd project, I teamed up with four other members to work on the give
 
 <img align="center" src="https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/blob/main/Project%202.1:%20Market%20Segmentation%20of%20Electric%20Vehicles%20in%20India/for_readme/ev%20models%20produced%20by%20a%20brand.png" width="800">
 
-- ***Maharashtra, Gujarat, Tamilnadu, Karnataka and Andhra Pradesh are among the top states with the majority of EV 2-wheelers while Assam, Himachal Pradesh, Sikkim, J&K with the least.***
+- ***Maharashtra, Gujarat, Tamilnadu, Karnataka and Andhra Pradesh are among the top states with the majority of EV 2-wheelers while Assam, Chhattisgarh, Himachal Pradesh, Sikkim, J&K with the least.***
 <img align="center" src="https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/blob/main/Project%202.1:%20Market%20Segmentation%20of%20Electric%20Vehicles%20in%20India/for_readme/Statewise%20Electric%20Vehicles%20(2%20Wheelers)%20in%20India.jpg" width="600">
 
 - ***Uttar Pradesh, Assam and Bihar are among the top states with the majority of EV 3-wheelers while the remaining states don't seem to depend on the same.***
