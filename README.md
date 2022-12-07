@@ -1,15 +1,14 @@
 <img align="right" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFsR2odu1HlDw/company-logo_200_200/0/1618823231043?e=2147483647&v=beta&t=ilJeLegaw6JWKvSIyh1IhTTZZw1-nAtmfqqQJSeTuSs" width="200">
 
-# :star: Feynn-Labs-Internship (2022)
-![](https://img.shields.io/badge/Tools-python%20%7C%20pandas%20%7C%20numpy%20%7C%20seaborn%20%7C%20matplotlib%20%7C%20sklearn-purple?style=for-the-badge)
-
+# :star: Feynn Labs Internship [2022]
+ 
 This repository contains the projects I did as an intern with [Feynn Labs](https://feynnlabs.com/).
 
 - **Internship Role**: Machine Learning Intern
 - **Internship Duration**: October, 2022 to December, 2022
 - **Internship Mode**: Virtual
 
-<br>
+![](https://img.shields.io/badge/Tools-python%20%7C%20pandas%20%7C%20numpy%20%7C%20seaborn%20%7C%20matplotlib%20%7C%20sklearn-purple?style=for-the-badge)
 
 ### :zap: [AI Product/Service Ideation Task](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/blob/main/Project%201:%20AI%20Product%5CService%20Ideation%20Task/Artificial%20Intelligence%20for%20Indentification%20of%20Indian%20snakes.pdf)
 In this solo project, titled ***Artificial Intelligence for identification of Indian snakes***, I put forth the idea of building an android and/or web application to identify Indian snakes by means of AI. This service, if implemented successfully, will be very important in not only identifing the creatures but also in saving humans from snakes and vice versa.
