@@ -5,8 +5,8 @@
 
 This repository contains the projects I did as an intern with [Feynn Labs](https://feynnlabs.com/).
 
-- **Internship Role**: Machine Learning intern
-- **Internship Duration**: 2 Months [October, 2022 to December, 2022]
+- **Internship Role**: Machine Learning Intern
+- **Internship Duration**: October, 2022 to December, 2022
 - **Internship Mode**: Virtual
 
 ***
@@ -39,6 +39,12 @@ During this 2nd project, I teamed up with four other members to work on the give
 <img align="center" src="https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/blob/main/Project%202.1:%20Market%20Segmentation%20of%20Electric%20Vehicles%20in%20India/for_readme/Statewise%20Electric%20Vehicles%20(4%20Wheelers)%20in%20India.jpg" width="600">
 
 *Kindly go through the complete project report to obtain more information of the Indian EV Market*
+
+***
+
+### :zap: [Mobile Price Prediction System]()
+
+For the 3rd project, I again got to work with the same team on ***Mobile Price Prediction System***.
 
 ***
 
