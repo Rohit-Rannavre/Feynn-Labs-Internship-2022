@@ -9,6 +9,8 @@ This repository contains the projects I did as an intern with [Feynn Labs](https
 - **Internship Duration**: October, 2022 to December, 2022
 - **Internship Mode**: Virtual
 
+<br>
+
 ### :zap: [AI Product/Service Ideation Task](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/blob/main/Project%201:%20AI%20Product%5CService%20Ideation%20Task/Artificial%20Intelligence%20for%20Indentification%20of%20Indian%20snakes.pdf)
 In this solo project, titled ***Artificial Intelligence for identification of Indian snakes***, I put forth the idea of building an android and/or web application to identify Indian snakes by means of AI. This service, if implemented successfully, will be very important in not only identifing the creatures but also in saving humans from snakes and vice versa.
 
