@@ -9,7 +9,7 @@ This repository contains the projects I did as an intern with [Feynn Labs](https
 - **Internship Duration**: October, 2022 to December, 2022
 - **Internship Mode**: Virtual
 
-***
+<br>
 
 ### :zap: [AI Product/Service Ideation Task](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/blob/main/Project%201:%20AI%20Product%5CService%20Ideation%20Task/Artificial%20Intelligence%20for%20Indentification%20of%20Indian%20snakes.pdf)
 In this solo project, titled ***Artificial Intelligence for identification of Indian snakes***, I put forth the idea of building an android and/or web application to identify Indian snakes by means of AI. This service, if implemented successfully, will be very important in not only identifing the creatures but also in saving humans from snakes and vice versa.
@@ -46,11 +46,11 @@ During this 2nd project, I teamed up with four other members to work on the give
 
 For the 3rd project, I again got to work with the same team on ***Mobile Price Prediction System***.
 
-***
+<br>
 
 ### ***Let's connect:*** 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Phylorohitics) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)
 
-### ***Made with :heart:, so don't forget to give this repo a :star:***
+### ***Don't forget to give this repo a :star:***
