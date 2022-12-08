@@ -12,17 +12,17 @@ This repository contains the projects I did as an intern with [Feynn Labs](https
 <br>
 
 ### :zap: [AI Product/Service Ideation Task](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/blob/main/Project%201:%20AI%20Product%5CService%20Ideation%20Task/Artificial%20Intelligence%20for%20Indentification%20of%20Indian%20snakes.pdf)
-In this solo project, titled ***Artificial Intelligence for identification of Indian snakes***, I put forth the idea of building an android and/or web application to identify Indian snakes by means of AI. This service, if implemented successfully, will be very important in not only identifing the creatures but also in saving humans from snakes and vice versa.
+For this solo project, titled *Artificial Intelligence for identification of Indian snakes*, I put forth the idea of building an android and/or web application to identify the Indian snakes by means of AI. This service, if implemented successfully, will be very important in not only identifing the creatures but also in saving humans from snakes and vice versa.
 
 ***
 
 ### :zap: [Market Segmentation Study Task](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/tree/main/Project%202.0:%20Market%20Segmentation%20case%20study)
-In this study task, I, along with four other team members, worked on Market Segmentation (MS), highlighted the key points theoretically and practically (using Python) that are vital to MS.
+In this study task, I worked on Market Segmentation (MS), highlighted the key points theoretically and practically (using Python) that are vital to MS.
 
 ***
 
 ### :zap: [Market Segmentation Analysis of the Indian Electric Vehicle Market](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/tree/main/Project%202.1:%20Market%20Segmentation%20of%20Electric%20Vehicles%20in%20India)
-During this 2nd project, I teamed up with four other members to work on the given problem statement: analyze the electric vehicles market in India using the Market Segmentation analysis and come up with a feasible strategy to enter the market by targeting the Geographic, Demographic, Psychographic, and Behavioral segments.
+During this 2nd project, I worked on the given problem statement: analyze the electric vehicles market in India using the Market Segmentation analysis and come up with a feasible strategy to enter the market by targeting the Geographic, Demographic, Psychographic, and Behavioral segments.
 
 :diamonds: Key findings:
 - ***Tesla, Audi, Volkswagen, Nissan, Skoda tops the list of EVs with the maximum number of models in the Indian automobile market.***
@@ -43,8 +43,7 @@ During this 2nd project, I teamed up with four other members to work on the give
 ***
 
 ### :zap: [Mobile Price Prediction System](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/tree/main/Project%203:%20Mobile%20Price%20Prediction%20System)
-
-For the 3rd project, I again got to work with the same team on ***Mobile Price Prediction System***.
+Mobiles have become an integral part of the lives of human beings. Today, these technical devices serve a multitude of purposes -- calling, video calls, texts, internet, mailing, playing games, taking pictures, shopping etc. Due to these very purposes, buyers often take many factors into consideration while purchasing a mobile such as brand, processor, memory size (internal & external), camera, battery backup among others. However, one factor that generally causes confusion is the *price*. As such, we built a Machine Learning model using Linear Regression to predict the price of a mobile based on its features. 
 
 <br>
 
