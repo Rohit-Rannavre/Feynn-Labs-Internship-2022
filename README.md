@@ -42,7 +42,7 @@ During this 2nd project, I teamed up with four other members to work on the give
 
 ***
 
-### :zap: [Mobile Price Prediction System]()
+### :zap: [Mobile Price Prediction System](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/tree/main/Project%203:%20Mobile%20Price%20Prediction%20System)
 
 For the 3rd project, I again got to work with the same team on ***Mobile Price Prediction System***.
 
