@@ -45,7 +45,7 @@ In this subsequent project, I collaborated with four fellow members to address t
 ***
 
 ### :zap: [Mobile Price Prediction System](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/tree/main/Project%203:%20Mobile%20Price%20Prediction%20System)
-Mobiles have become an integral part of the lives of human beings. Today, these technical devices serve a multitude of purposes for example calling, video calls, texts, internet, mailing, playing games, taking pictures, shopping etc. Due to these very purposes, buyers often take many factors into consideration while purchasing a mobile such as brand, processor, memory size (internal & external), camera, battery backup among others. However, one factor that generally causes confusion is the *price*. As such, we built a Machine Learning model using Linear Regression to predict the price of a mobile based on its features. 
+Mobiles have become an integral part of the lives of human beings. Today, these technical devices serve a multitude of purposes for example calling, video calls, texts, internet, mailing, playing games, taking pictures, shopping etc. Due to these very purposes, buyers often take many factors into consideration while purchasing a mobile such as brand, processor, memory size (internal & external), camera, battery backup among others. Among these considerations, however, one factor that generally causes confusion is the *price*. As such, we built a Machine Learning model using Linear Regression to predict the price of a mobile based on its features. 
 
 <br>
 
