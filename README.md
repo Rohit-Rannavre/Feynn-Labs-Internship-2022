@@ -19,7 +19,7 @@ For this solo project, titled *Artificial Intelligence for identification of Ind
 ***
 
 ### :zap: [Market Segmentation Study Task](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/tree/main/Project%202.0:%20Market%20Segmentation%20case%20study)
-In this study task, I, along with four other members, worked on Market Segmentation (MS), highlighted the key points theoretically and practically (using Python) that are vital to MS.
+In this study task, I, along with four other members, worked on Market Segmentation (MS), and highlighted the key points theoretically and practically (using Python) that are vital to MS.
 
 ***
 
