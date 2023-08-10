@@ -24,7 +24,7 @@ In this study task, I, along with four other members, worked on Market Segmentat
 ***
 
 ### :zap: [Market Segmentation Analysis of the Indian Electric Vehicle Market](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/tree/main/Project%202.1:%20Market%20Segmentation%20of%20Electric%20Vehicles%20in%20India)
-During this 2nd project, I teamed up with four other members to work on the given problem statement: analyze the electric vehicles market in India using the Market Segmentation analysis and come up with a feasible strategy to enter the market by targeting the Geographic, Demographic, Psychographic, and Behavioral segments.
+In this subsequent project, I collaborated with four fellow members to address the assigned task: conduct an analysis of the electric vehicles market in India through Market Segmentation techniques. Our objective was to devise a viable market entry strategy that revolves around targeting the Geographic, Demographic, Psychographic and Behavioral segments.
 
 :diamonds: Key findings:
 - ***Tesla, Audi, Volkswagen, Nissan, Skoda tops the list of EVs with the maximum number of models in the Indian automobile market.***
