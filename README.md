@@ -2,7 +2,6 @@
 
 # :star: Feynn Labs Internship [2022]
 ![](https://img.shields.io/badge/Tools-python%20%7C%20pandas%20%7C%20numpy%20%7C%20seaborn%20%7C%20matplotlib%20%7C%20sklearn-green?style=for-the-badge)
-<img align="right" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFsR2odu1HlDw/company-logo_200_200/0/1618823231043?e=2147483647&v=beta&t=ilJeLegaw6JWKvSIyh1IhTTZZw1-nAtmfqqQJSeTuSs" width="200">
 
 This repository contains the projects I did as an intern with [Feynn Labs](https://feynnlabs.com/).
 
@@ -44,10 +43,4 @@ In this subsequent project, I collaborated with four fellow members to address t
 ***
 
 ### :zap: [Mobile Price Prediction System](https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022/tree/main/Project%203:%20Mobile%20Price%20Prediction%20System)
-Mobiles have become an integral part of the lives of human beings. Today, these technical devices serve a multitude of purposes for example calling, video calls, texts, internet, mailing, playing games, taking pictures, shopping etc. Due to these very purposes, buyers often take many factors into consideration while purchasing a mobile such as brand, processor, memory size (internal & external), camera, battery backup among others. Among these considerations, however, one factor that generally causes confusion is the *price*. As such, we built a Machine Learning model using Linear Regression to predict the price of a mobile based on its features. 
-
-<br>
-
-### ***Let's connect:*** 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)  
+Mobiles have become an integral part of the lives of human beings. Today, these technical devices serve a multitude of purposes for example calling, video calls, texts, internet, mailing, playing games, taking pictures, shopping etc. Due to these very purposes, buyers often take many factors into consideration while purchasing a mobile such as brand, processor, memory size (internal & external), camera, battery backup among others. Among these considerations, however, one factor that generally causes confusion is the *price*. As such, we built a Machine Learning model using Linear Regression to predict the price of a mobile based on its features.
